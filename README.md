@@ -1,5 +1,7 @@
 # blog
 
+## This is a course project
+
 > My breathtaking Nuxt.js project
 
 ## Build Setup
