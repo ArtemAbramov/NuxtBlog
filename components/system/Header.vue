@@ -21,6 +21,7 @@ export default {
     return {
       links: [
         {title: 'Home', url: '/'},
+        {title: 'Blog', url: '/blog'},
         {title: 'About', url: '/about'}
       ]
     }
